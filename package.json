@@ -1,0 +1,42 @@
+{
+  "name": "flatsome",
+  "version": "1.0.0",
+  "description": "format-gulp",
+  "main": "index.html",
+  "dependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^7.0.1"
+  },
+  "browserslist": [
+    ">1%",
+    "ie >= 8",
+    "edge >= 15",
+    "ie_mob >= 10",
+    "ff >= 45",
+    "chrome >= 45",
+    "safari >= 7",
+    "opera >= 23",
+    "ios >= 7",
+    "android >= 4",
+    "bb >= 10"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marco",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanchapanta/flatsome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yanchapanta/flatsome/issues"
+  },
+  "homepage": "https://github.com/yanchapanta/flatsome#readme"
+}
